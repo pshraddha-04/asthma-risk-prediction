@@ -1,0 +1,45 @@
+# Data files (add dataset manually)
+data/Asthma_Disease_Dataset.csv
+data/balanced_data_SMOTE.csv
+data/balanced_data_ROSE.csv
+data/balanced_data_Hybrid.csv
+
+# Saved model
+models/neural_network_top9.rda
+
+# R session files
+.RData
+.Rhistory
+.Rproj.user/
+
+# Old flat scripts (replaced by structured folders)
+1_DataBalancing.R
+2_feature_selection.R
+3_SMOTE_Boruta_70_30.R
+3_SMOTE_Boruta_75_25.R
+3_SMOTE_Boruta_80_20.R
+3_SMOTE_LASSO_70_30.R
+3_SMOTE_LASSO_75_25.R
+3_SMOTE_LASSO_80_20.R
+3_SMOTE_RFE_70_30.R
+3_SMOTE_RFE_75_25.R
+3_SMOTE_RFE_80_20.R
+4_ROSE_Boruta_70_30.R
+4_ROSE_Boruta_75_25.R
+4_ROSE_Boruta_80_20.R
+4_ROSE_LASSO_70_30.R
+4_ROSE_LASSO_75_25.R
+4_ROSE_LASSO_80_20.R
+4_ROSE_RFE_70_30.R
+4_ROSE_RFE_75_25.R
+4_ROSE_RFE_80_20.R
+5_Hybrid_Boruta_70_30.R
+5_Hybrid_Boruta_75_25.R
+5_Hybrid_Boruta_80_20.R
+5_Hybrid_LASSO_70_30.R
+5_Hybrid_LASSO_75_25.R
+5_Hybrid_LASSO_80_20.R
+5_Hybrid_RFE_70_30.R
+5_Hybrid_RFE_75_25.R
+5_Hybrid_RFE_80_20.R
+appNew.R

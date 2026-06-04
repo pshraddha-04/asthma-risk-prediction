@@ -1,4 +1,4 @@
-# Asthma Disease Prediction
+# 🫁 Asthma Disease Prediction
 
 ![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/App-Shiny-blue?style=flat)
@@ -259,3 +259,6 @@ shiny::runApp("shiny_app")
 
 ---
 
+## 📄 License
+
+This project is for academic and educational purposes.
