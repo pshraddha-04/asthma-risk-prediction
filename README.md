@@ -1,4 +1,4 @@
-# 🫁 Asthma Disease Prediction
+# Asthma Disease Prediction
 
 ![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/App-Shiny-blue?style=flat)
